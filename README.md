@@ -16,11 +16,11 @@ Simply run OSTRICH.bat.
 For additional calibrations, update the ostIn file.
 
 ## References
-OSTRICH Citation: Matott, LS. 2017. OSTRICH: an Optimization Software Tool, Documentation and User's Guide, Version 17.12.19. University at Buffalo Center for Computational Research. Link.
+Matott, LS. 2017. OSTRICH: an Optimization Software Tool, Documentation and User's Guide, Version 17.12.19. University at Buffalo Center for Computational Research. Link.
 
-SPAEF Citation: Koch, J., Demirel, M. C., Stisen, S. 2018. "The SPAtial EFficiency metric (SPAEF): multiple-component evaluation of spatial patterns for optimization of hydrological models." Geoscientific Model Development, 11(5), 1873–1886. Link, DOI: 10.5194/gmd-11-1873-2018.
+Koch, J., Demirel, M. C., Stisen, S. 2018. "The SPAtial EFficiency metric (SPAEF): multiple-component evaluation of spatial patterns for optimization of hydrological models." Geoscientific Model Development, 11(5), 1873–1886. Link, DOI: 10.5194/gmd-11-1873-2018.
 
-EGU 24 research: Moreira, V., Silva, F., and Welerson, C.: Progressive assessment of multivariate parameter estimation in distributed hydrological modelling using spatial patterns of remote sensing data, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-790, https://doi.org/10.5194/egusphere-egu24-790, 2024.
+Moreira, V., Silva, F., and Welerson, C.: Progressive assessment of multivariate parameter estimation in distributed hydrological modelling using spatial patterns of remote sensing data, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-790, https://doi.org/10.5194/egusphere-egu24-790, 2024.
 
 ## Disclaimer
 
